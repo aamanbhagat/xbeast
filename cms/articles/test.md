@@ -17,22 +17,14 @@ categories:
   - Dev
 type: Article
 ---
-<style>
-.equation {
-    font-family: 'Latin Modern Math', 'Cambria Math', 'TeX Gyre Termes Math', 'STIX Two Math', serif;
-    font-size: 16px;
-    color: #333333;
-}
-</style>
-
 # Physics Problem Solutions
 
 ## Problem 1: Rolling Object
 
 **Problem:**
-Starting from rest, an object rolls down along an incline that rises by 3 in every 5 (along it). The object gains a speed of 10 m/s as it travels a distance of 5?3 m along the incline. What can be the possible shape/s of the object?
+Starting from rest, an object rolls down along an incline that rises by 3 in every 5 (along it). The object gains a speed of 10 m/s as it travels a distance of \(5\sqrt{3}\) m along the incline. What can be the possible shape/s of the object?
 
-[Ans: K R2/2 = 1. Thus, a ring or a hollow cylinder]
+[Ans: \(K \frac{R^2}{2} = 1\). Thus, a ring or a hollow cylinder]
 
 **Solution:**
 
@@ -40,7 +32,7 @@ To solve this problem, we'll use principles of kinematics and geometry. Let's br
 
 1. **Analyze the Incline**: The incline rises by 3 units vertically for every 5 units horizontally. This corresponds to a slope of \( \frac{3}{5} \).
 
-2. **Speed Along the Incline**: The object starts from rest and attains a speed of 10 m/s after traveling 5?3 m along the incline.
+2. **Speed Along the Incline**: The object starts from rest and attains a speed of 10 m/s after traveling \(5\sqrt{3}\) m along the incline.
 
 3. **Calculate Acceleration**: We can use the kinematic equation \( v^2 = u^2 + 2as \), where \( v \) is the final velocity (10 m/s), \( u \) is the initial velocity (0 m/s), \( a \) is the acceleration, and \( s \) is the distance traveled.
 
