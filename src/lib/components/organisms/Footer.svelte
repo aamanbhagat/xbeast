@@ -12,13 +12,13 @@
 	</div>
 	<div class="content">
 		<div class="copyright">
-			© {currentYear} Matheus Fantinel. Made in Brazil.
+			© {currentYear} Aman Bhagat. Made in India.
 		</div>
 		<div class="credits">
-			Powered by <a href="https://kit.svelte.dev/" target="_blank" rel="noopener noreferrer"
-				>SvelteKit</a
+			Powered by <a href="https://xaman.me/" target="_blank" rel="noopener noreferrer"
+				>Xaman</a
 			>. Icons by
-			<a href="https://iconoir.com/" target="_blank" rel="noopener noreferrer">Iconoir</a>.
+			<a href="https://xbeast.me/" target="_blank" rel="noopener noreferrer">Xbeast</a>.
 		</div>
 		<div class="socials">
 			<Socials />
