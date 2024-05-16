@@ -17,6 +17,13 @@ categories:
   - Dev
 type: Article
 ---
+<style>
+.equation {
+    font-family: 'Latin Modern Math', 'Cambria Math', 'TeX Gyre Termes Math', 'STIX Two Math', serif;
+    font-size: 16px;
+    color: #333333;
+}
+</style>
 
 # Physics Problem Solutions
 
@@ -63,4 +70,15 @@ To solve this problem, we'll use the principle of conservation of angular moment
 2. **Final Moment of Inertia**: After melting and remolding into a thin uniform disc of the same radius, the moment of inertia will change.
 
 3. **Conservation of Angular Momentum**: When there is no external torque acting on a system, the total angular momentum remains constant. We can express this as:
+   \[ I? ?? = I? ?? \]
+   where:
+   - \( I? \) and \( I? \) are the initial and final moments of inertia respectively,
+   - \( ?? \) and \( ?? \) are the initial and final angular velocities respectively.
 
+4. **Moment of Inertia of a Thin Uniform Disc**: The moment of inertia of a thin uniform disc rotating about its own axis is given by \( I = \frac{1}{2} m r2 \), where \( m \) is the mass and \( r \) is the radius. Given that the mass remains the same after remolding, the new moment of inertia \( I? \) will be \( \frac{1}{2} m r2 \).
+
+   Now, substituting \( v = r ?? \) into the conservation equation:
+   \[ I? \frac{v}{r} = \frac{1}{2} m r2 \frac{v}{r} \]
+   \[ I? = \frac{1}{2} m r2 = I? \]
+
+   So, the moment of inertia of the thin uniform disc when rotated about its own axis is the same as that of the metallic ring when rotated about one of its diameters. Hence, \( I? = 1 \) kg m2.
