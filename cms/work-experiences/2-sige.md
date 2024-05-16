@@ -1,10 +1,10 @@
 ---
-company: SIGE Cloud
+company: Ethical hacking
 companySlug: sige
 jobTitle: Software Developer
 timeframe: 2017 → 2019
 current: false
-location: Brazil
+location: India
 description: Started learning ethical hacking and cyber security from strach and started applying them in really world.
 technologies:
   - color: primary
