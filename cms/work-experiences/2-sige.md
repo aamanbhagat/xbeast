@@ -5,22 +5,22 @@ jobTitle: Software Developer
 timeframe: 2017 → 2019
 current: false
 location: Brazil
-description: Built new mobile apps from scratch with Ionic, a simplified desktop ERP with Electron, and modernized the existing Web version by applying the Microfrontends approach.
+description: Started learning ethical hacking and cyber security from strach and started applying them in really world.
 technologies:
   - color: primary
-    label: Angular
+    label: Kali Linux
     fieldGroup: coloredTag
   - color: primary
-    label: Ionic
+    label: Network
     fieldGroup: coloredTag
   - color: primary
-    label: Electron
+    label: Linux
     fieldGroup: coloredTag
   - color: secondary
     label: .NET
     fieldGroup: coloredTag
   - color: secondary
-    label: MongoDB
+    label: Mining
     fieldGroup: coloredTag
 type: Work Experience
 ---
