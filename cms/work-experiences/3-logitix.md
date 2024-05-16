@@ -1,16 +1,16 @@
 ---
-company: Logitix
-companySlug: logitix
+company: Advance networking
+companySlug: Advance networking
 jobTitle: Software Developer
 timeframe: 2019 → 2021
 current: false
 location: USA, Remote
-description: Working on one of the biggest ticket brokerage management systems in the world, I've built new features, improved existing ones, and made huge boosts to performance.
+description: Started finding bugs on various website and started solving it and reporting it and helping people with my skills
 technologies:
-  - label: Vue
+  - label: Kali
     color: primary
     fieldGroup: coloredTag
-  - label: AngularJS
+  - label: Parrot
     color: primary
     fieldGroup: coloredTag
   - color: secondary
