@@ -9,7 +9,7 @@
 
 <div class="socials">
 	<a
-		href="https://hachyderm.io/@fantinel"
+		href="https://https://hachyderm.io/@aamanbhagat/"
 		target="_blank"
 		rel="me noreferrer"
 		title="Say Hi on Mastodon"
@@ -17,7 +17,7 @@
 		<MastodonIcon />
 	</a>
 	<a
-		href="https://github.com/MatFantinel"
+		href="https://github.com/aamanbhagat"
 		target="_blank"
 		rel="me noopener noreferrer"
 		title="See my GitHub profile"
@@ -25,7 +25,7 @@
 		<GitHubIcon />
 	</a>
 	<a
-		href="https://www.linkedin.com/in/matheus-fantinel/"
+		href="https://www.linkedin.com/in/aamanbhagat/"
 		target="_blank"
 		rel="me noopener noreferrer"
 		title="Connect on LinkedIn"
@@ -33,10 +33,10 @@
 		<LinkedInIcon />
 	</a>
 	<a
-		href="mailto:matt@fantinel.dev"
+		href="mailto:support@xbeast.me"
 		target="_blank"
 		rel="noopener noreferrer"
-		title="Send an email to matt@fantinel.dev"
+		title="Send an email to support@xbeast.me"
 	>
 		<EmailIcon />
 	</a>
