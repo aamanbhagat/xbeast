@@ -38,9 +38,9 @@
 	<section class="education">
 		<SectionTitle>Education</SectionTitle>
 		<p>
-			Graduated as a{' '}
+			In college{' '}
 			<b>Technologist in System Analysis and Development</b> at{' '}
-			<i>Centro Universitário da Serra Gaúcha</i>, 2018.
+			<i>Mumbai university and Youtube</i>, 2018.
 		</p>
 	</section>
 	<section class="skills">
