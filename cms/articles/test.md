@@ -1,6 +1,6 @@
 ---
 title: Development of Dicot Embryo: A Detailed Overview
-keywords: "dicot embryo development, stages of dicot embryo, plant reproduction, zygote formation, proembryo stage, globular stage, heart stage, torpedo stage, mature embryo"
+keywords: dicot embryo development, stages of dicot embryo, plant reproduction, zygote formation, proembryo stage, globular stage, heart stage, torpedo stage, mature embryo
 slug: Development of Dicot Embryo: A Detailed Overview
 excerpt: Learn about the stages of dicot embryo development, from zygote formation to the mature embryo stage. Understand the key features and importance of each stage in the life cycle of a dicot plant.
 coverImage: ""
